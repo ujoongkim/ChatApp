@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581777123944",
+    "firebase_url": "https://chatapp-a356e-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-a356e",
+    "storage_bucket": "chatapp-a356e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581777123944:android:915ad5c7402f2f0ea269dd",
+        "android_client_info": {
+          "package_name": "com.kwj.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581777123944-h00u1q2an2heddhvkdg7e4s3vgrl1thc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQo9CEZACN2T6sGewx289tmiBOtVTiSlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581777123944-h00u1q2an2heddhvkdg7e4s3vgrl1thc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
